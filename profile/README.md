@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/PqWD8ek.png" height="128">
-  <h2 align="center">Hacking Roadmap</h2>
-  <p align="center">Roadmap para Hacking criado pela XPSec Security, com o intuito de ajudar a todos dessa comunidade.<p>
+  <h2 align="center">XPSec Security</h2>
+  <p align="center">Confira aqui todos os nossos projetos abertos, feitos para a comunidade.<p>
   <p align="center">
     <a href="https://instagram.com/xpsecsecurity">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Instagram%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Instagram" />
